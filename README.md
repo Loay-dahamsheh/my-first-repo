@@ -11,3 +11,5 @@ Here is some hobbies I got used to it:
 1. Go to gym
 2. play Basketball
 3. Play gaming video
+
+> in this assignment I use Heading, bold, etalic, bold with etalic, Blockquotes, unorderlist, orderlist, URLs and Email Addresses.
